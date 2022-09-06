@@ -29,9 +29,30 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/coin_scene.unity
     guid: 450bf8c21cad2a0428907c8dd8f3594d
-  - enabled: 1
+  - enabled: 0
     path: Assets/coin_scene2.unity
     guid: a9695a45b60b4454f8bb7b6d9b699cf1
+  - enabled: 0
+    path: Assets/coin_scene_hands_check.unity
+    guid: 1098030c5701e1d4fa4c22810454ee8a
+  - enabled: 0
+    path: Assets/coin_scene_hands_check1.unity
+    guid: cbf560e632d76654e9300448b265abea
+  - enabled: 0
+    path: Assets/coin_scene_hands_check_ray_to_hands.unity
+    guid: 29b020e7b7878634f88702b58f21f613
+  - enabled: 0
+    path: Assets/coin_scene_collect_coin.unity
+    guid: 5b2a270b1293b83439f9b847141bd90a
+  - enabled: 0
+    path: Assets/positive_scene_final.unity
+    guid: de0805b549d1f874f828aa627c47ecb7
+  - enabled: 0
+    path: Assets/positive_scene1_final.unity
+    guid: 3bcb61f0fe08f4e4eb8fe76129b0acfd
+  - enabled: 1
+    path: Assets/negative_scene_final.unity
+    guid: 1c986fea49caf594298693de00b0b4ec
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 734e15bc7c982204bac74965eee0880d, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d0693d75ff74cf547984dc52b2425920, type: 2}
